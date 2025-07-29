@@ -3,6 +3,7 @@ html, body {
   padding: 0;
 }
 canvas {
+  color: black;
   display: block;
 }
  terra {
